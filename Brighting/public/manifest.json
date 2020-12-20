@@ -1,0 +1,15 @@
+{
+    "name":"Brighting",
+    "short_name":"Brighting",
+    "icons":[
+        {
+            "src":"512.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        }
+    ],
+    "start_url":"/login.html",
+    "display":"fullscreen",
+    "background_color":"#A4DED0",
+    "theme_color":"#A4DED0"
+}
