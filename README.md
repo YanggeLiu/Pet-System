@@ -1,49 +1,54 @@
-# **Pet-System**
-A system which take care of your pet when you're out side.
+# Pet-System
 
-- PWA框架应用
+A system which take care of your pet when you're out side. 😊
 
-## **功能**
+<br>
+<br>
 
-- 摄像头部分(beta)
-- 投喂器部分
-- 跟踪部分
+## Contents
+- [Background](#background)
+- [Install and Usage](#install-and-usage)
+- [Contributing](#contributing)
+- [License](#license)
 
+<br>
+<br>
 
-## **使用前**
+## Background
 
-- clone mjpg-streamer
+### Build your own system that can take care of your pets by yourself ! 🐱‍🏍
 
-```
-git clone https://github.com/codewithpassion/mjpg-streamer.git
-```
+### The system includes client (web、Android), camera, feeder, tracker and other modules to ensure that your pet can support itself when you are not at home ! 🐱‍🏍
 
-- install [frp](https://github.com/fatedier/frp)
+<br>
+<br>
 
-- install apache / nginx
+## Install and Usage
 
-**Ubuntu/debian**
-```
-sudo apt install -y apache2
-```
+- [Client web](../code/web/README.md)
+- [Camera](../code/web/README.md)
 
-- install php
+### Please check the installation and Usage details in the specific module folder
 
-**Ubuntu/debian**
-```
-sudo apt install -y php
-```
+<br>
+<br>
 
-- move folder Brighting to www
-```
-cd Brighting_path /path/mjpg-streamer/mjpg-streamer/www/
-```
-- move folder php to /var/www/html(apache)
-```
-cd php_path /var/www/html
-```
+## Supplementary notes
 
-## **使用许可**
-[MIT](LICENSE) © Yangge Liu
+### This project is still in the development stage and is not fully available. For the sake of your pet, **Do not completely rely on this system**. 😟
 
+<br>
+<br>
 
+## Contributing
+
+PRs accepted.
+
+### 
+
+<br>
+<br>
+
+## License
+
+[MIT © YanggeLiu.](../LICENSE)
