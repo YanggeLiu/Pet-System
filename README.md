@@ -16,7 +16,7 @@ A system which take care of your pet when you're out side. 😊
 
 ## Background
 
-### Build your own system that can take care of your pets by yourself ! 🐱‍🏍
+### (**DIY**) Build your own system that can take care of your pets by yourself ! 🐱‍🏍
 
 ### The system includes client (web、Android), camera, feeder, tracker and other modules to ensure that your pet can support itself when you are not at home ! 🐱‍🏍
 
