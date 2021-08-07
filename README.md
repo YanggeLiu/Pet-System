@@ -25,8 +25,8 @@ A system which take care of your pet when you're out side. 😊
 
 ## Install and Usage
 
-- [Client web](../code/web/README.md)
-- [Camera](../code/cam_device/README.md)
+- [Client web](code/web/README.md)
+- [Camera](code/cam_device/README.md)
 
 ### Please check the installation and Usage details in the specific module folder
 
