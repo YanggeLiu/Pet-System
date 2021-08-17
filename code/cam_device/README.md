@@ -8,7 +8,6 @@ Hardware diagram and code of cam_device.
 ## Contents
 
 - [Hardware diagram](#hardware-diagram)
-- [Background](#background)
 - [Install](#install)
 - [Usage](#usage)
 - [API](#api)
@@ -27,13 +26,6 @@ Hardware diagram and code of cam_device.
 ![right](readme_images/cam_device_right.jpg)
 ![behind](readme_images/cam_device_behind.jpg)
 ![running](readme_images/cam_device_running.jpg)
-
-<br>
-<br>
-
-## Background
-
-### The device can observe the state of the cat at home from multiple angles with the help of a double axle steering gear.
 
 <br>
 <br>
