@@ -1,19 +1,31 @@
 # Client_web
 
-Client_web for Cat_system.
+[![GitHub](https://img.shields.io/github/license/byteso/Pet-System)](../LICENSE)
+![pwa](https://img.shields.io/badge/pwa-adapted-green)
+
+<br>
+
+Client_web for Pet_System.
+
+<br>
 
 ## Contents
-
 - [effect](#effect)
 - [Install](#install)
 - [Usage](#usage)
 - [API](#api)
+
+<br>
+<br>
 
 ## effect
 
 ### desktop
 
 ### mobile
+
+<br>
+<br>
 
 ## Install
 
@@ -24,6 +36,9 @@ cd /to/your/code/path
 ```
 npm install
 ```
+
+<br>
+<br>
 
 ## Usage
 
@@ -41,6 +56,9 @@ npm run build
 ```
 npm run lint
 ```
+
+<br>
+<br>
 
 ## API
 

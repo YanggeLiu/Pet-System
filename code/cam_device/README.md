@@ -1,5 +1,9 @@
 # cam_device
 
+[![GitHub](https://img.shields.io/github/license/byteso/Pet-System)](../LICENSE)
+
+<br>
+
 Hardware diagram and code of cam_device.
 
 <br>
