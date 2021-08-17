@@ -51,4 +51,4 @@ PRs accepted.
 
 ## License
 
-[MIT © YanggeLiu.](LICENSE)
+[MIT © byteso.](LICENSE)
