@@ -20,9 +20,44 @@ Client_web for Pet_System.
 
 ## effect
 
-### desktop
+### **desktop**
 
-### mobile
+<br>
+
+![index](readme_images/index.jpg)
+
+<br>
+
+![login](readme_images/login.png)
+
+<br>
+
+![cam_page_0](readme_images/cam_page_0.png)
+
+<br>
+
+![cam_page_1](readme_images/cam_page_1.png)
+
+<br>
+
+![cam_page_2](readme_images/cam_page_2.png)
+
+<br>
+
+![settings](readme_images/setting_page.png)
+
+<br>
+
+### **mobile**
+
+<br>
+
+![index_mobile](readme_images/index_mobile.jpg)
+![cam_page_0_mobile](readme_images/cam_page_0_mobile.png)
+![cam_page_1_mobile](readme_images/cam_page_1_mobile.png)
+![cam_page_2_mobile](readme_images/cam_page_2_mobile.png)
+![setting_mobile](readme_images/setting_mobile.png)
+
 
 <br>
 <br>
