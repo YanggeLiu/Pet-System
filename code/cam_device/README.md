@@ -1,6 +1,6 @@
 # cam_device
 
-[![GitHub](https://img.shields.io/github/license/byteso/Pet-System)](../LICENSE)
+[![GitHub](https://img.shields.io/github/license/byteso/Pet-System)](../../LICENSE)
 
 <br>
 

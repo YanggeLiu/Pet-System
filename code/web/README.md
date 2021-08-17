@@ -1,6 +1,6 @@
 # Client_web
 
-[![GitHub](https://img.shields.io/github/license/byteso/Pet-System)](LICENSE)
+[![GitHub](https://img.shields.io/github/license/byteso/Pet-System)](../../LICENSE)
 ![pwa](https://img.shields.io/badge/pwa-adapted-green)
 
 <br>
